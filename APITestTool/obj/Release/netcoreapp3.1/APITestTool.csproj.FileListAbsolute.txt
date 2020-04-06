@@ -1,0 +1,15 @@
+C:\Users\cnorr\Source\repos\APITestTool\APITestTool\bin\Release\netcoreapp3.1\APITestTool.exe
+C:\Users\cnorr\Source\repos\APITestTool\APITestTool\bin\Release\netcoreapp3.1\APITestTool.deps.json
+C:\Users\cnorr\Source\repos\APITestTool\APITestTool\bin\Release\netcoreapp3.1\APITestTool.runtimeconfig.json
+C:\Users\cnorr\Source\repos\APITestTool\APITestTool\bin\Release\netcoreapp3.1\APITestTool.runtimeconfig.dev.json
+C:\Users\cnorr\Source\repos\APITestTool\APITestTool\bin\Release\netcoreapp3.1\APITestTool.dll
+C:\Users\cnorr\Source\repos\APITestTool\APITestTool\bin\Release\netcoreapp3.1\APITestTool.pdb
+C:\Users\cnorr\Source\repos\APITestTool\APITestTool\bin\Release\netcoreapp3.1\RestSharp.dll
+C:\Users\cnorr\Source\repos\APITestTool\APITestTool\obj\Release\netcoreapp3.1\APITestTool.csprojAssemblyReference.cache
+C:\Users\cnorr\Source\repos\APITestTool\APITestTool\obj\Release\netcoreapp3.1\APITestTool.csproj.CoreCompileInputs.cache
+C:\Users\cnorr\Source\repos\APITestTool\APITestTool\obj\Release\netcoreapp3.1\APITestTool.AssemblyInfoInputs.cache
+C:\Users\cnorr\Source\repos\APITestTool\APITestTool\obj\Release\netcoreapp3.1\APITestTool.AssemblyInfo.cs
+C:\Users\cnorr\Source\repos\APITestTool\APITestTool\obj\Release\netcoreapp3.1\APITestTool.csproj.CopyComplete
+C:\Users\cnorr\Source\repos\APITestTool\APITestTool\obj\Release\netcoreapp3.1\APITestTool.dll
+C:\Users\cnorr\Source\repos\APITestTool\APITestTool\obj\Release\netcoreapp3.1\APITestTool.pdb
+C:\Users\cnorr\Source\repos\APITestTool\APITestTool\obj\Release\netcoreapp3.1\APITestTool.genruntimeconfig.cache

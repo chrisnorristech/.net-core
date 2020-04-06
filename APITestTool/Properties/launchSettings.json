@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "APITestTool": {
+      "commandName": "Project",
+      "commandLineArgs": "auth sylvianorris 123"
+    }
+  }
+}
