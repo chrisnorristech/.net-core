@@ -117,7 +117,7 @@ namespace GameGraphicImporter
         }
         private static void createGameInAPI(int count, string gamename, string gametext, string gameurl, string gamecategory, string paytype, string creditcost, string minpercredit, string gameimage)
         {
-            var client = new RestClient("http://192.99.233.233:7777/api");
+            var client = new RestClient("http://xxxxxx:7777/api");
             var sessionKey = "xxxxxxxxxxxxxxxxxxxxx";
             //JObject boom = JObject.Parse();
             var jsonBody = "{\"action\":\"addupdategame\",\"session_key\":\"" + sessionKey + "\",\"data\":{\"GameCatalogID\":\"new\",\"GameID\":\"" + "game" + count + "\",\"GameName\":\"" + gamename + "\",\"GameText\":\"" + gametext + "\",\"GameURL\":\"" + gameurl + "\",\"GameCategoryDesc\":\"" + gamecategory + "\",\"GamePayTypeDesc\":\"" + paytype + "\",\"CreditCost\":\"" + creditcost + "\",\"MinPerCredit\":\"" + minpercredit + "\",\"GameImage\":\"" + gameimage + "\"}}";
