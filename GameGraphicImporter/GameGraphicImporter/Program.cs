@@ -1,4 +1,4 @@
-﻿using Newtonsoft.Json.Linq;
+using Newtonsoft.Json.Linq;
 using OfficeOpenXml;
 using RestSharp;
 using SixLabors.ImageSharp;
